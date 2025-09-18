@@ -1,32 +1,18 @@
 # 🎰 Slot Machine
 
-A simple, interactive slot machine game built with HTML, CSS, and JavaScript.  
-This project was created to practice core front-end development skills — logic, DOM manipulation, and clean UI design.
+A fun and interactive slot machine game built with HTML, CSS, and JavaScript.  
+This project helped me practice front-end development, game logic, and creating smooth user experiences.
 
----
+## Features
+- Three spinning reels with random outcomes  
+- Win or lose feedback after every spin  
+- Credit balance system with adjustable bets  
+- Mobile-friendly layout and simple design  
+- Clean, organized JavaScript code
 
-## ⚡ Features
+## Tech Used
+- HTML for structure  
+- CSS for layout, colors, and animations  
+- JavaScript (ES6) for game logic and interactivity
 
-- Three spinning reels with randomized outcomes
-- Dynamic win/loss detection
-- Credit balance system with adjustable bet amounts
-- Responsive layout for desktop and mobile
-- Clean and modular JavaScript code
 
----
-
-## 🛠️ Tech Stack
-
-- **HTML5** — structure
-- **CSS3** — styling, layout, and animations
-- **JavaScript (ES6)** — game logic, interactivity, DOM control
-
----
-
-## 🚀 Getting Started
-
-Clone the repository:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/slot-machine.git
-cd slot-machine
