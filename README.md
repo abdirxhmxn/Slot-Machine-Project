@@ -26,4 +26,4 @@ Take a look at a few other projects I’ve built:
 
 **Portfolio Website:** https://github.com/abdirxhmxn/portfolio  
 **To-Do App:** [https://github.com/abdirxhmxn/todo-app](https://github.com/abdirxhmxn/Todo-List-Project)  
-**Calculator App:** https://github.com/abdirxhmxn/calculator
+
