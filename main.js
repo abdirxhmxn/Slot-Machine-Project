@@ -10,6 +10,7 @@ document.querySelector('#button2').addEventListener('click', maxBet)
 let wallet = 1000
 document.querySelector('span').innerText = `Wallet: ${wallet}`
 
+//Got help from community for this specific codng format
 function getRandomIndex(range){
     return Math.ceil(Math.random() * range)
 }
