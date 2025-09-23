@@ -1,5 +1,3 @@
-[comment]: # (this was written with the help of chat GPT)
-
 # 🎰 Slot Machine
 A fun and interactive slot machine game that simulates the classic casino experience in the browser.  
 It was built to strengthen my front-end skills and showcase clean, organized game logic.
