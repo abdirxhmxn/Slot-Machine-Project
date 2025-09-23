@@ -1,4 +1,4 @@
-[comment]: # (Another hidden comment)
+[comment]: # (this was written with the help of chat GPT)
 
 # 🎰 Slot Machine
 A fun and interactive slot machine game that simulates the classic casino experience in the browser.  
